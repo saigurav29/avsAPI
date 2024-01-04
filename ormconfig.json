@@ -1,0 +1,10 @@
+{
+    "type": "mysql",
+    "host": "localhost",
+    "port": 3306,
+    "username": "root",
+    "password": "Saigurav@29",
+    "database": "avsdb",
+    "entities": ["dist/**/*.entity{.ts,.js}"],
+    "synchronize": true
+}
